@@ -3,7 +3,7 @@ title: "The Grey Men: EPs"
 category: music
 order: 4
 year: "2021–2023"
-thumbnail: "/images/grey-men-eps-thumb.jpg"
+thumbnail: "/images/grey-men-eps-grid.jpg"
 images:
   - "/images/grey-men-eps.jpg"
   - "/images/grey-men-ep5-stagger-lee.jpg"
