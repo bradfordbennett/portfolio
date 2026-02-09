@@ -3,11 +3,13 @@ title: "Symphony 13: Hallucination City"
 category: music
 order: 13
 year: "2000s"
-thumbnail: "/images/symphony-13.svg"
+thumbnail: "/images/branca-thumb.jpg"
+images:
+  - "/images/branca-symphony13.jpg"
 description: "Glenn Branca. 100 electric guitars."
 ---
 
-I performed as part of Glenn Branca's *Symphony No. 13 (Hallucination City)* for 100 electric guitars.
+I performed as part of Glenn Branca's *Symphony No. 13 (Hallucination City)* for 100 electric guitars — in both the New Jersey and Los Angeles performances.
 
 Branca originally conceived the symphony for 2,000 guitarists as part of the Paris millennium celebrations. When that didn't happen, he premiered the work on June 13, 2001, outdoors in front of the World Trade Center in New York. Subsequent performances took place in New Jersey, Los Angeles, St. Louis, and Rome.
 
