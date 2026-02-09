@@ -9,4 +9,4 @@ description: "LP3."
 
 The third full-length from The Grey Men.
 
-[Listen on Bandcamp →](https://thegreymen.bandcamp.com/album/wealth)
+[Listen on Bandcamp →](https://thegreymen.bandcamp.com/album/lp03-wealth)
