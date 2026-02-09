@@ -71,3 +71,11 @@ const { Content } = await render(project);
     margin-bottom: 0.5rem;
   }
 </style>
+
+<script>
+  // Make all external links open in new tab
+  document.querySelectorAll('.prose a[href^="http"]').forEach(link => {
+    link.setAttribute('target', '_blank');
+    link.setAttribute('rel', 'noopener noreferrer');
+  });
+</script>
