@@ -17,10 +17,8 @@ The work explores themes of desire, repetition, and the materiality of print thr
 
 ## Exhibition Views
 
-![Exhibition installation](/images/i-want-you-exhibition-4.jpg)
-
 ![Framed prints on wall](/images/i-want-you-exhibition-2.jpg)
 
 ![Artist book and prints on plinth](/images/i-want-you-exhibition-3.jpg)
 
-![Brad with the work](/images/i-want-you-portrait.jpg)
+![Full installation](/images/i-want-you-exhibition-4.jpg)
