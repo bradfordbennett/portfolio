@@ -3,7 +3,7 @@ title: "A Crimson Grail"
 category: music
 order: 12
 year: "2009"
-thumbnail: "/images/crimson-grail.svg"
+thumbnail: "/images/crimson-grail-thumb.jpg"
 description: "Rhys Chatham. 200 electric guitars. Lincoln Center."
 ---
 
