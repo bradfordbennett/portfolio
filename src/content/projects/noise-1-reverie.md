@@ -1,5 +1,5 @@
 ---
-title: "AI Review"
+title: "Noise 1 / Reverie"
 category: art
 order: 6
 year: "2024"
