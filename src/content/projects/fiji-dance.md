@@ -18,4 +18,10 @@ The work speaks to the erosion of memory, employing recordings of my partner's v
 
 The piece provided the ambient soundtrack for the opening night, and by the end of the exhibition, nothing remained.
 
+## Listen
+
+<audio controls style="width: 100%; margin: 1rem 0;">
+  <source src="/audio/fiji-bus.mp3" type="audio/mpeg">
+</audio>
+
 **Exhibition:** Inaugural at Ellipsis Gallery, Sydney (2022)
