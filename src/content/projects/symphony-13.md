@@ -6,6 +6,7 @@ year: "2000s"
 thumbnail: "/images/branca-thumb.jpg"
 images:
   - "/images/branca-symphony13.jpg"
+  - "/images/branca-la.jpg"
 description: "Glenn Branca. 100 electric guitars."
 ---
 
