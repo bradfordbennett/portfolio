@@ -4,12 +4,15 @@ category: art
 order: 2
 year: "2025"
 thumbnail: "/images/i-want-you.jpg"
-description: "Artist book. Part of '2025...' exhibition at Ellipsis Gallery."
+description: "Artist book. Erotica. Acrylic on handmade cotton rag."
 ---
 
-*I Want You* is an artist book created for the "2025..." group exhibition at Ellipsis Gallery, Woolloomooloo.
+You could call it erotica.
 
-The work explores themes of desire, repetition, and the materiality of print through a series of monotype prints bound into a handmade accordion book.
+A series of acrylic prints made from photographs I've taken with a plastic lens film camera, handbound into a large book. Embracing pure desire seems to be out of sync with contemporary art movements — which is precisely why it felt necessary.
+
+**Medium:** Acrylic on handmade cotton rag, handbound and boxed with various papers  
+**Dimensions:** 320mm × 220mm closed
 
 **Exhibition:** 2025... at Ellipsis Gallery, Sydney
 
