@@ -3,6 +3,7 @@ title: "The Grey Men: LPs"
 category: music
 order: 1
 year: "2022–2024"
+thumbnail: "/images/grey-men-lps.svg"
 description: "Drone doom duo. Synthesizers, guitars, volume as instrument."
 ---
 

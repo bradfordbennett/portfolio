@@ -3,6 +3,7 @@ title: "I Want You"
 category: art
 order: 2
 year: "2025"
+thumbnail: "/images/i-want-you.svg"
 description: "Artist book. Part of '2025...' exhibition at Ellipsis Gallery."
 ---
 

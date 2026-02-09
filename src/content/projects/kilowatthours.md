@@ -3,6 +3,7 @@ title: "Kilowatthours"
 category: music
 order: 16
 year: "2003–2005"
+thumbnail: "/images/kilowatthours.svg"
 description: "Brooklyn indie rock. Temporary Residence Ltd."
 ---
 

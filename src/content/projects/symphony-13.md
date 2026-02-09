@@ -3,6 +3,7 @@ title: "Symphony 13: Hallucination City"
 category: music
 order: 13
 year: "2000s"
+thumbnail: "/images/symphony-13.svg"
 description: "Glenn Branca. 100 electric guitars."
 ---
 

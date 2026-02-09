@@ -3,6 +3,7 @@ title: "The Grey Men: EPs"
 category: music
 order: 4
 year: "2021–2023"
+thumbnail: "/images/grey-men-eps.svg"
 description: "Experimental singles and live recordings."
 ---
 

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect fill="#1f2d1f" width="800" height="600"/>
+  <text x="400" y="280" font-family="system-ui" font-size="40" fill="#e5e5e5" text-anchor="middle">KILOWATTHOURS</text>
+  <text x="400" y="340" font-family="system-ui" font-size="18" fill="#737373" text-anchor="middle">Brooklyn 2003–2005</text>
+</svg>

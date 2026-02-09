@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600">
+  <rect fill="#2d1f1f" width="800" height="600"/>
+  <text x="400" y="260" font-family="system-ui" font-size="36" fill="#e5e5e5" text-anchor="middle">A CRIMSON GRAIL</text>
+  <text x="400" y="320" font-family="system-ui" font-size="20" fill="#a0a0a0" text-anchor="middle">Rhys Chatham</text>
+  <text x="400" y="360" font-family="system-ui" font-size="18" fill="#737373" text-anchor="middle">200 Guitars · Lincoln Center · 2009</text>
+</svg>

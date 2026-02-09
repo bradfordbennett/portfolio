@@ -3,6 +3,7 @@ title: "AI Review"
 category: art
 order: 6
 year: "2024"
+thumbnail: "/images/ai-review.svg"
 description: "Multimedia installation. Sound, cassettes, print."
 ---
 

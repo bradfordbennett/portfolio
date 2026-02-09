@@ -3,6 +3,7 @@ title: "Fiji Dance / Fiji Bus"
 category: art
 order: 7
 year: "2022"
+thumbnail: "/images/fiji-dance.svg"
 description: "Sound art installation. Concrete sounds, cassette loops, knife."
 ---
 
