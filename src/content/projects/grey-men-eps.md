@@ -5,6 +5,9 @@ order: 4
 year: "2021–2023"
 thumbnail: "/images/grey-men-eps-grid.jpg"
 images:
+  - "/images/grey-men-ep11-commodity.jpg"
+  - "/images/grey-men-ep10-unto-the-sunn.jpg"
+  - "/images/grey-men-ep9-sun-death.jpg"
   - "/images/grey-men-eps.jpg"
   - "/images/grey-men-ep5-stagger-lee.jpg"
   - "/images/grey-men-alterac.jpg"
