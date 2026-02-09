@@ -1,0 +1,113 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+const projects = await getCollection('projects');
+const sortedProjects = projects.sort((a, b) => a.data.order - b.data.order);
+---
+
+<Layout title="Brad Bennett">
+  <div class="max-w-6xl mx-auto px-6 py-12">
+    <!-- Filter buttons -->
+    <div class="flex gap-3 mb-10" id="filters">
+      <button 
+        class="filter-btn active px-4 py-2 text-sm border border-[--color-border] rounded-full transition-all hover:border-[--color-accent]" 
+        data-filter="all"
+      >
+        All
+      </button>
+      <button 
+        class="filter-btn px-4 py-2 text-sm border border-[--color-border] rounded-full transition-all hover:border-[--color-accent]" 
+        data-filter="music"
+      >
+        Music
+      </button>
+      <button 
+        class="filter-btn px-4 py-2 text-sm border border-[--color-border] rounded-full transition-all hover:border-[--color-accent]" 
+        data-filter="art"
+      >
+        Art
+      </button>
+      <button 
+        class="filter-btn px-4 py-2 text-sm border border-[--color-border] rounded-full transition-all hover:border-[--color-accent]" 
+        data-filter="writing"
+      >
+        Writing
+      </button>
+    </div>
+
+    <!-- Project grid -->
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6" id="project-grid">
+      {sortedProjects.map((project) => {
+        const href = project.data.externalUrl || `/projects/${project.slug}`;
+        const isExternal = !!project.data.externalUrl;
+        
+        return (
+          <a 
+            href={href}
+            target={isExternal ? "_blank" : undefined}
+            rel={isExternal ? "noopener noreferrer" : undefined}
+            class="project-card group block" 
+            data-category={project.data.category}
+          >
+            <div class="aspect-[4/3] bg-[--color-border] rounded-lg overflow-hidden mb-3">
+              {project.data.thumbnail ? (
+                <img 
+                  src={project.data.thumbnail} 
+                  alt={project.data.title}
+                  class="w-full h-full object-cover transition-transform duration-300 group-hover:scale-105"
+                />
+              ) : (
+                <div class="w-full h-full flex items-center justify-center text-[--color-text-muted]">
+                  <span class="text-4xl">{project.data.category === 'music' ? '♪' : project.data.category === 'art' ? '◐' : '¶'}</span>
+                </div>
+              )}
+            </div>
+            <h3 class="font-medium mb-1 group-hover:text-[--color-accent] transition-colors">
+              {project.data.title}
+              {isExternal && <span class="text-[--color-text-muted] text-sm ml-1">↗</span>}
+            </h3>
+            <p class="text-sm text-[--color-text-muted] uppercase tracking-wide">{project.data.category}</p>
+          </a>
+        );
+      })}
+    </div>
+  </div>
+</Layout>
+
+<style>
+  .filter-btn.active {
+    background-color: var(--color-accent);
+    color: var(--color-bg);
+    border-color: var(--color-accent);
+  }
+  
+  .project-card.hidden {
+    display: none;
+  }
+</style>
+
+<script>
+  const filterButtons = document.querySelectorAll('.filter-btn');
+  const projectCards = document.querySelectorAll('.project-card');
+
+  filterButtons.forEach(button => {
+    button.addEventListener('click', () => {
+      const filter = button.getAttribute('data-filter');
+      
+      // Update active button
+      filterButtons.forEach(btn => btn.classList.remove('active'));
+      button.classList.add('active');
+      
+      // Filter projects
+      projectCards.forEach(card => {
+        const category = card.getAttribute('data-category');
+        if (filter === 'all' || category === filter) {
+          card.classList.remove('hidden');
+        } else {
+          card.classList.add('hidden');
+        }
+      });
+    });
+  });
+</script>

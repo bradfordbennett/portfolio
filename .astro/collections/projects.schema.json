@@ -1,0 +1,47 @@
+{
+  "$ref": "#/definitions/projects",
+  "definitions": {
+    "projects": {
+      "type": "object",
+      "properties": {
+        "title": {
+          "type": "string"
+        },
+        "category": {
+          "type": "string",
+          "enum": [
+            "music",
+            "art",
+            "writing"
+          ]
+        },
+        "thumbnail": {
+          "type": "string"
+        },
+        "externalUrl": {
+          "type": "string"
+        },
+        "order": {
+          "type": "number"
+        },
+        "year": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "$schema": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "title",
+        "category",
+        "order",
+        "description"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "$schema": "http://json-schema.org/draft-07/schema#"
+}
