@@ -31,7 +31,7 @@ const { Content } = await render(project);
     </header>
 
     {project.data.thumbnail && (
-      <div class="aspect-video bg-[--color-border] rounded-lg overflow-hidden mb-8">
+      <div class="aspect-square max-w-lg bg-[--color-border] rounded-lg overflow-hidden mb-8">
         <img 
           src={project.data.thumbnail} 
           alt={project.data.title}

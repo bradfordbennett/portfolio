@@ -50,7 +50,7 @@ const sortedProjects = projects.sort((a, b) => a.data.order - b.data.order);
             class="project-card group block" 
             data-category={project.data.category}
           >
-            <div class="aspect-[4/3] bg-[--color-border] rounded-lg overflow-hidden mb-3">
+            <div class="aspect-square bg-[--color-border] rounded-lg overflow-hidden mb-3">
               {project.data.thumbnail ? (
                 <img 
                   src={project.data.thumbnail} 
