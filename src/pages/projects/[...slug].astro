@@ -31,13 +31,13 @@ const { Content } = await render(project);
     </header>
 
     {project.data.images && project.data.images.length > 0 ? (
-      <div class="grid grid-cols-2 sm:grid-cols-3 gap-4 mb-8">
+      <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8">
         {project.data.images.map((img: string, i: number) => (
-          <div class="aspect-square bg-[--color-border] rounded-lg overflow-hidden">
+          <div class="bg-[--color-border] rounded-lg overflow-hidden">
             <img 
               src={img} 
               alt={`${project.data.title} - Image ${i + 1}`}
-              class="w-full h-full object-cover"
+              class="w-full h-auto"
             />
           </div>
         ))}

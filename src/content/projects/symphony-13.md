@@ -1,5 +1,5 @@
 ---
-title: "Symphony 13: Hallucination City"
+title: "Glenn Branca: Symphony No 13 (Hallucination City)"
 category: music
 order: 13
 year: "2000s"
