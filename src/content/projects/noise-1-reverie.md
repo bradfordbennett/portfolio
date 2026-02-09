@@ -1,7 +1,7 @@
 ---
 title: "Noise 1 / Reverie"
 category: art
-order: 6
+order: 8
 year: "2024"
 thumbnail: "/images/ai-review-thumb.jpg"
 images:

@@ -1,7 +1,7 @@
 ---
 title: "Where Did All the Funny Ads Go?"
 category: writing
-order: 8
+order: 12
 year: "2024"
 thumbnail: "/images/funny-ads.svg"
 description: "On the decline of humour in advertising."

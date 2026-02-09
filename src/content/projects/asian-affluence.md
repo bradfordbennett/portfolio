@@ -1,7 +1,7 @@
 ---
 title: "Decoding Asian Affluence"
 category: writing
-order: 11
+order: 15
 year: "2023"
 thumbnail: "/images/asian-affluence.svg"
 description: "APAC spotlight on emerging markets."

@@ -1,7 +1,7 @@
 ---
 title: "Bling Kong"
 category: music
-order: 15
+order: 19
 year: "2004–2006"
 thumbnail: "/images/bling-kong.svg"
 description: "11-piece NYC rock band. 4 cheerleaders. 3 drummers."
