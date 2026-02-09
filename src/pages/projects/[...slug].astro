@@ -30,7 +30,19 @@ const { Content } = await render(project);
       )}
     </header>
 
-    {project.data.thumbnail && (
+    {project.data.images && project.data.images.length > 0 ? (
+      <div class="grid grid-cols-2 sm:grid-cols-3 gap-4 mb-8">
+        {project.data.images.map((img: string, i: number) => (
+          <div class="aspect-square bg-[--color-border] rounded-lg overflow-hidden">
+            <img 
+              src={img} 
+              alt={`${project.data.title} - Image ${i + 1}`}
+              class="w-full h-full object-cover"
+            />
+          </div>
+        ))}
+      </div>
+    ) : project.data.thumbnail && (
       <div class="aspect-square max-w-lg bg-[--color-border] rounded-lg overflow-hidden mb-8">
         <img 
           src={project.data.thumbnail} 
