@@ -31,7 +31,7 @@ const { Content } = await render(project);
     </header>
 
     {project.data.images && project.data.images.length > 0 ? (
-      <div class="grid grid-cols-1 sm:grid-cols-2 gap-4 mb-8">
+      <div class="grid grid-cols-1 sm:grid-cols-2 gap-6 mb-10">
         {project.data.images.map((img: string, i: number) => (
           <div class="bg-[--color-border] rounded-lg overflow-hidden">
             <img 
@@ -81,6 +81,10 @@ const { Content } = await render(project);
   }
   .prose li {
     margin-bottom: 0.5rem;
+  }
+  .prose img {
+    border-radius: 0.5rem;
+    margin: 1rem 0;
   }
 </style>
 

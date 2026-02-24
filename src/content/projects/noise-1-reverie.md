@@ -1,7 +1,7 @@
 ---
 title: "Noise 1 / Reverie"
 category: art
-order: 8
+order: 5
 year: "2024"
 thumbnail: "/images/ai-review-thumb.jpg"
 images:
@@ -30,8 +30,6 @@ A handbound artist book created with The Grey Men. The imagery explores the inap
 The Grey Men's LP2, released on limited edition cassette for the exhibition. The music itself was created using AI in deliberately "wrong" ways — treating the technology as a noise generator rather than a creative collaborator.
 
 </div>
-
-Both pieces question what happens when you refuse to use AI "properly."
 
 <div style="margin: 2rem 0;">
 
