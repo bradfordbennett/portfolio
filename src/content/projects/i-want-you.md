@@ -43,7 +43,7 @@ description: "Artist book. Erotica. Acrylic on handmade cotton rag."
 
 You could call it erotica.
 
-A series of acrylic prints made from photographs I've taken with a plastic lens film camera, handbound into a large book. Embracing pure desire seems to be out of sync with contemporary art movements — which is precisely why it felt necessary.
+A series of acrylic prints made from photographs I've taken with a plastic lens film camera, handbound into a large book. Embracing pure desire seems to be out of sync with contemporary art movements, which is precisely why it felt necessary.
 
 </div>
 

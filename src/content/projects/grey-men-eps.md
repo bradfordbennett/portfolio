@@ -14,7 +14,7 @@ images:
 description: "Experimental singles and live recordings."
 ---
 
-Exploratory releases from The Grey Men — shorter works, live recordings, and collaborations.
+Exploratory releases from The Grey Men: shorter works, live recordings, and collaborations.
 
 <div style="margin: 2rem 0;">
 
@@ -29,7 +29,7 @@ Exploratory releases from The Grey Men — shorter works, live recordings, and c
 
 </div>
 
-Each release pushes into different territory — from disco-inflected drone to pure harsh noise.
+Each release pushes into different territory, from disco-inflected drone to pure harsh noise.
 
 <div style="margin: 2rem 0;">
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3089039223/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://thegreymen.bandcamp.com">The Grey Men</a></iframe>

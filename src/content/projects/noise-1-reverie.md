@@ -19,7 +19,7 @@ Two pieces created for *AI Review*, a group show at Ellipsis Gallery, Woolloomoo
 
 ## Noise 1
 
-A handbound artist book created with The Grey Men. The imagery explores the inappropriate use of AI to generate visual noise — pushing the tools toward abstraction and error rather than fidelity.
+A handbound artist book created with The Grey Men. The imagery explores the inappropriate use of AI to generate visual noise, pushing the tools toward abstraction and error rather than fidelity.
 
 </div>
 
@@ -27,7 +27,7 @@ A handbound artist book created with The Grey Men. The imagery explores the inap
 
 ## Reverie
 
-The Grey Men's LP2, released on limited edition cassette for the exhibition. The music itself was created using AI in deliberately "wrong" ways — treating the technology as a noise generator rather than a creative collaborator.
+The Grey Men's LP2, released on limited edition cassette for the exhibition. The music itself was created using AI in deliberately "wrong" ways, treating the technology as a noise generator rather than a creative collaborator.
 
 </div>
 

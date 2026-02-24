@@ -11,7 +11,7 @@ In August 2009, I performed as one of 200 guitarists in Rhys Chatham's *A Crimso
 
 <div style="margin: 2rem 0;">
 
-The piece — an antiphonal work for 200 electric guitars, 16 electric basses, and percussion — was originally composed for 400 guitars and premiered at the Sacré-Cœur basilica in Paris in 2005. The Lincoln Center performance was a complete reworking commissioned for the outdoor summer festival.
+The piece, an antiphonal work for 200 electric guitars, 16 electric basses, and percussion, was originally composed for 400 guitars and premiered at the Sacré-Cœur basilica in Paris in 2005. The Lincoln Center performance was a complete reworking commissioned for the outdoor summer festival.
 
 An estimated 10,000 people attended. The performance was recorded and released on Nonesuch Records.
 

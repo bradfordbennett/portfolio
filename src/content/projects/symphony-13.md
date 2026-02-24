@@ -10,7 +10,7 @@ images:
 description: "Glenn Branca. 100 electric guitars."
 ---
 
-I performed as part of Glenn Branca's *Symphony No. 13 (Hallucination City)* for 100 electric guitars — in both the New Jersey and Los Angeles performances.
+I performed as part of Glenn Branca's *Symphony No. 13 (Hallucination City)* for 100 electric guitars, performing in both the New Jersey and Los Angeles performances.
 
 <div style="margin: 2rem 0;">
 
