@@ -24,6 +24,17 @@ These small format photographs were taken with a FujiFilm Instax, inspired by th
 
 <div style="margin: 2rem 0;">
 
+## The Grey Men cover
+
+<audio controls style="width: 100%;">
+  <source src="/audio/hang-on-st-chris.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+</div>
+
+<div style="margin: 2rem 0;">
+
 **Exhibition:** Head On Photo Festival, Sydney (2015)
 
 </div>
