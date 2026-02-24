@@ -1,7 +1,7 @@
 ---
 title: "The Grey Men: Cascade"
 category: music
-order: 6
+order: 7
 year: "2022"
 thumbnail: "/images/lp1-cascade.jpg"
 description: "LP1. The debut."
