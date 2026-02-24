@@ -22,6 +22,12 @@ Also released on limited edition cassette via Innercity Uprising Records for the
 </div>
 
 <div style="margin: 2rem 0;">
+
+The MXVXM suite was made possible by using custom eurorack modules designed by [MxRF (Robert Frost)](https://www.mxrobertfrost.com/).
+
+</div>
+
+<div style="margin: 2rem 0;">
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1695519816/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://thegreymen.bandcamp.com/album/lp02-reverie">Reverie by The Grey Men</a></iframe>
 </div>
 
