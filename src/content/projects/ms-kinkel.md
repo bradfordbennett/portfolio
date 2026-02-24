@@ -9,12 +9,6 @@ description: "Acrylic on handmade cotton rag."
 
 <div style="margin: 2rem 0;">
 
-![Ms Kinkel](/images/ms-kinkel.jpg)
-
-</div>
-
-<div style="margin: 2rem 0;">
-
 **Medium:** Acrylic on handmade cotton rag
 
 </div>
