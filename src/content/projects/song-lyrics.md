@@ -3,7 +3,10 @@ title: "Hang On St Chris"
 category: art
 order: 14
 year: "2015"
-thumbnail: "/images/song-lyrics.svg"
+thumbnail: "/images/st-chris-exhibition.jpg"
+images:
+  - "/images/st-chris-exhibition.jpg"
+  - "/images/st-chris-1.jpg"
 description: "FujiFilm Instax photos inspired by Tom Waits. Head On Photo Festival 2015."
 ---
 
