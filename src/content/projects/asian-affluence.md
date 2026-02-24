@@ -1,5 +1,5 @@
 ---
-title: "Decoding Asian Affluence"
+title: "WARC: Decoding Asian Affluence"
 category: writing
 order: 15
 year: "2023"
