@@ -1,5 +1,5 @@
 ---
-title: "A Crimson Grail"
+title: "Rhys Chatham: A Crimson Grail"
 category: music
 order: 16
 year: "2009"
