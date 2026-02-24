@@ -3,7 +3,7 @@ title: "Hang On St Chris"
 category: art
 order: 14
 year: "2015"
-thumbnail: "/images/st-chris-exhibition.jpg"
+thumbnail: "/images/st-chris-right.jpg"
 images:
   - "/images/st-chris-exhibition.jpg"
   - "/images/st-chris-1.jpg"
@@ -24,7 +24,7 @@ These small format photographs were taken with a FujiFilm Instax, inspired by th
 
 <div style="margin: 2rem 0;">
 
-## The Grey Men cover
+## From Afar cover
 
 <audio controls style="width: 100%;">
   <source src="/audio/hang-on-st-chris.mp3" type="audio/mpeg">
