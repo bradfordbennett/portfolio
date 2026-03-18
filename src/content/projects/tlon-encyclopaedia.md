@@ -1,7 +1,7 @@
 ---
 title: "Tlön Encyclopaedia Volume XI"
 category: art
-order: 6
+order: 3
 year: "2025"
 thumbnail: "/images/tlon-encyclopaedia-thumb.jpg"
 images:

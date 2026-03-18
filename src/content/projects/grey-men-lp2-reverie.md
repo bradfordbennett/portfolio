@@ -1,7 +1,7 @@
 ---
 title: "The Grey Men: Reverie"
 category: music
-order: 4
+order: 9
 year: "2023"
 thumbnail: "/images/lp2-reverie.jpg"
 description: "LP2."

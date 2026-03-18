@@ -1,7 +1,7 @@
 ---
 title: "Glenn Branca: Symphony No 13 (Hallucination City)"
 category: music
-order: 17
+order: 5
 year: "2000s"
 thumbnail: "/images/branca-thumb.jpg"
 images:

@@ -1,7 +1,7 @@
 ---
 title: "The Grey Men: EPs"
 category: music
-order: 9
+order: 11
 year: "2020–2023"
 thumbnail: "/images/grey-men-eps-grid.jpg"
 images:

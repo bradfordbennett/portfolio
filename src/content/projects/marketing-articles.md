@@ -1,7 +1,7 @@
 ---
 title: "Articles on Marketing"
 category: writing
-order: 10
+order: 16
 year: "2015–2025"
 thumbnail: "/images/marketing-articles.svg"
 description: "Selected writing on creativity, effectiveness, and advertising."

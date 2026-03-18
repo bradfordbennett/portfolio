@@ -1,7 +1,7 @@
 ---
 title: "WARC: Decoding Asian Affluence"
 category: writing
-order: 15
+order: 17
 year: "2023"
 thumbnail: "/images/asian-affluence.jpg"
 description: "APAC spotlight on emerging markets."

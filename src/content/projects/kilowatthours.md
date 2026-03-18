@@ -1,7 +1,7 @@
 ---
 title: "Kilowatthours"
 category: music
-order: 20
+order: 18
 year: "2004"
 thumbnail: "/images/kilowatthours-rum-diary.jpg"
 description: "Brooklyn indie rock. Temporary Residence Ltd."
