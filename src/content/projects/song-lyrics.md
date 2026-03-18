@@ -18,7 +18,7 @@ In 1987 Tom Waits released *Frank's Wild Years*, a concept album that is part de
 
 <div style="margin: 2rem 0;">
 
-These small format photographs were taken with a FujiFilm Instax, inspired by the lyrics to "Hang on St. Christopher". They were exhibited as part of *Photos Inspired by Song Lyrics* at Head On Photo Festival, Sydney in 2015.
+These small format photographs were taken with a FujiFilm Instax, inspired by the lyrics to "Hang on St. Christopher". They were exhibited as part of *Photos Inspired by Song Lyrics* at Head On Photo Festival, Sydney in 2015 and accompanied by an unreleased cover by my band, From Afar.
 
 </div>
 
