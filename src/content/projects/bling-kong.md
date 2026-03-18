@@ -18,7 +18,8 @@ We released *Do The Awesome* on Redder Records in 2005. SPIN Magazine wrote us u
 
 The band was known for chaotic live shows and an aesthetic that blurred the line between rock concert and performance art.
 
-## Links
+<div style="margin: 2rem 0;">
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/4H4Dyiuny5OeVWLxbJ1H1l?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
 
-- [Spotify](https://open.spotify.com/artist/4H4Dyiuny5OeVWLxbJ1H1l)
-- [Wikipedia](https://en.wikipedia.org/wiki/Bling_Kong)
+[Wikipedia →](https://en.wikipedia.org/wiki/Bling_Kong)
