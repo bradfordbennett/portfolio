@@ -2,7 +2,7 @@
 title: "Articles on Marketing"
 category: writing
 order: 10
-year: "2023–2025"
+year: "2015–2025"
 thumbnail: "/images/marketing-articles.svg"
 description: "Selected writing on creativity, effectiveness, and advertising."
 ---
@@ -44,5 +44,15 @@ On the decline of humour in advertising.
 Key questions for a sustainable strategy.
 
 [Read on LBB →](https://lbbonline.com/news/ethical-branding-key-questions-for-a-sustainable-strategy)
+
+</div>
+
+<div style="margin: 2rem 0;">
+
+## Ad Blockers Could Be Really Good for Everyone (2015)
+
+On the disruption of digital advertising.
+
+[Read on Mumbrella →](https://mumbrella.com.au/ad-blockers-could-be-really-good-for-everyone-320173)
 
 </div>
