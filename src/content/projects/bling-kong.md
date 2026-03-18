@@ -3,7 +3,12 @@ title: "Bling Kong"
 category: music
 order: 19
 year: "2004–2006"
-thumbnail: "/images/bling-kong.svg"
+thumbnail: "/images/bling-kong-timeout.jpg"
+images:
+  - "/images/bling-kong-timeout.jpg"
+  - "/images/bling-kong-konglives.jpg"
+  - "/images/bling-kong-do-the-awesome.jpg"
+  - "/images/bling-kong-greatest-hits.jpg"
 description: "11-piece NYC rock band. 4 cheerleaders. 3 drummers."
 ---
 
