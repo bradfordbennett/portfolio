@@ -49,4 +49,4 @@ Each release pushes into different territory, from disco-inflected drone to pure
 
 </div>
 
-[Explore on Bandcamp →](https://thegreymen.bandcamp.com)
+[All EPs on Bandcamp →](https://thegreymen.bandcamp.com/)
