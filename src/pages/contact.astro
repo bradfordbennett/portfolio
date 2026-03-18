@@ -12,8 +12,8 @@ import Layout from '../layouts/Layout.astro';
       </p>
       
       <p class="text-2xl">
-        <a href="mailto:brad@papermoose.com" class="underline hover:text-[--color-accent]">
-          brad@papermoose.com
+        <a id="email-link" href="#" class="underline hover:text-[--color-accent]">
+          <span id="email-text">[click to reveal]</span>
         </a>
       </p>
       
@@ -22,4 +22,19 @@ import Layout from '../layouts/Layout.astro';
       </p>
     </div>
   </div>
+  
+  <script>
+    const user = 'bradcbennett';
+    const domain = 'gmail.com';
+    const emailLink = document.getElementById('email-link');
+    const emailText = document.getElementById('email-text');
+    
+    emailLink?.addEventListener('click', (e) => {
+      e.preventDefault();
+      const email = `${user}@${domain}`;
+      emailText!.textContent = email;
+      emailLink!.href = `mailto:${email}`;
+      window.location.href = `mailto:${email}`;
+    });
+  </script>
 </Layout>
