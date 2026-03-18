@@ -2,37 +2,17 @@
 title: "Kilowatthours"
 category: music
 order: 20
-year: "2003–2005"
+year: "2004"
 thumbnail: "/images/kilowatthours.svg"
 description: "Brooklyn indie rock. Temporary Residence Ltd."
 ---
 
 Kilowatthours were an indie rock band originally from Louisville, Kentucky, later based in Brooklyn, New York. I joined in 2003.
 
-<div style="margin: 2rem 0;">
-
-The band released several albums on Temporary Residence Ltd and Springman Records, including a split CD with The Rum Diary.
-
-The band later evolved into Up the Empire.
-
-</div>
+The band released several albums on Temporary Residence Ltd and Springman Records. I played on the split CD with The Rum Diary (Springman Records, 2004). The band later evolved into Up the Empire.
 
 <div style="margin: 2rem 0;">
-
-## Releases
-
-- **Kilowatthours & The Rum Diary Split** (Springman Records, 2004)
-- **Strain of Positive Thinking** (Temporary Residence Ltd, 2000)
-- **Lessons in Time Management** (2000)
-- **All Things Regarding** (1999)
-
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5rW1bpOTzuSBJEHnzlzzXd?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </div>
 
-<div style="margin: 2rem 0;">
-
-## Links
-
-- [Bandcamp](https://kilowatthours.bandcamp.com)
-- [Discogs](https://www.discogs.com/artist/190406-Kilowatthours)
-
-</div>
+[Discogs →](https://www.discogs.com/artist/190406-Kilowatthours)
