@@ -19,9 +19,7 @@ Exploratory releases from The Grey Men: shorter works, live recordings, and coll
 
 <div style="margin: 2rem 0;">
 
-## Selected EPs
-
-Each release pushes into different territory, from disco-inflected drone to pure harsh noise.
+Each release pushes into different territory, from disco to harsh noise.
 
 **EP11 Commodity** (2023)
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1145697861/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://thegreymen.bandcamp.com/album/ep11-commodity">EP11 Commodity</a></iframe>
