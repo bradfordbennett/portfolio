@@ -4,6 +4,15 @@ category: art
 order: 21
 year: "2013–ongoing"
 thumbnail: "/images/guzzi-v7-fairing.jpg"
+images:
+  - "/images/guzzi-v7-1.jpg"
+  - "/images/guzzi-v7-2.jpg"
+  - "/images/guzzi-v7-3.jpg"
+  - "/images/guzzi-v7-4.jpg"
+  - "/images/guzzi-v7-5.jpg"
+  - "/images/guzzi-v7-6.jpg"
+  - "/images/guzzi-v7-7.jpg"
+  - "/images/guzzi-v7-8.jpg"
 description: "Custom cafe racer build. Blacked out Italian daily rider."
 ---
 
@@ -34,16 +43,6 @@ The centrepiece is a hand-laid fiberglass fairing cast from a vintage 1970s Kawa
 - Custom injector covers
 - Discreet indicators
 - Removal of anything chrome
-
-</div>
-
-<div style="margin: 2rem 0;">
-
-## Philosophy
-
-"There is no name for this build. Often if you caress a bike enough, tickle its nuts, it whispers you its name. This Guzzi is my daily rider. Sometimes I love it. Sometimes it pisses me off."
-
-The best thing about modern bikes: you don't need a ton of engine work to make them rad. Just improve airflow and fuel mix, then sort the handling and looks.
 
 </div>
 
