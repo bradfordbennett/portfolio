@@ -10,17 +10,9 @@ images:
 description: "Glenn Branca. 100 electric guitars."
 ---
 
-I performed as part of Glenn Branca's *Symphony No. 13 (Hallucination City)* for 100 electric guitars, performing in both the New Jersey and Los Angeles performances.
-
 <div style="margin: 2rem 0;">
 
-Branca originally conceived the symphony for 2,000 guitarists as part of the Paris millennium celebrations. When that didn't happen, he premiered the work on June 13, 2001, outdoors in front of the World Trade Center in New York. Subsequent performances took place in New Jersey, Los Angeles, St. Louis, and Rome.
-
-</div>
-
-<div style="margin: 2rem 0;">
-
-The symphony represents the apex of Branca's explorations into massed guitars, alternate tunings, and the physical experience of volume as a compositional element.
+I performed in Glenn Branca's *Symphony No. 13 (Hallucination City)* for 100 electric guitars, in both the New Jersey and Los Angeles performances. The symphony premiered at the World Trade Center Plaza on June 13, 2001, three months before the towers fell. The piece uses many chords but only two chord shapes, written to take advantage of custom tunings across the guitar sections. Four movements: March, Anthem, Drive, and Vengeance. Branca once told the performers: "I don't know what you guys are doing in here, but I'm hearing voices in this music."
 
 </div>
 
