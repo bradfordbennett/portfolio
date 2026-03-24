@@ -21,25 +21,20 @@ description: "The missing volume from Borges. Handbound edition of 2."
 
 <div style="margin: 2rem 0;">
 
-In Borges' classic story *Tlön, Uqbar, Orbis Tertius*, the narrator discovers a single volume (the eleventh) of *A First Encyclopaedia of Tlön*. The volume covers entries Hlaer to Jangr, describing the geography, languages, philosophy, and culture of an entirely imaginary world.
+In Borges' story *Tlön, Uqbar, Orbis Tertius*, the narrator discovers Volume XI of *A First Encyclopaedia of Tlön*, covering entries from Hlaer to Jangr. The volume describes an imaginary world in exhaustive detail, yet the book itself does not exist.
 
 </div>
 
 <div style="margin: 2rem 0;">
 
-I wrote this missing book.
-
-</div>
-
-<div style="margin: 2rem 0;">
-
-Complete with illustrations, the encyclopaedia was handbound into an edition of two copies. One was given to Sarah Kinkel for her birthday. The other was traded to Mark Wotherspoon for a painting.
+This is that book. Dozens of entries on the metaphysics, zoology, history, politics and daily life of Tlön, complete with illustrations. As a reference volume for a world that doesn't exist, it is not meant to be read front to back, although you could. It is intended to function as a source of wonder, and maybe creative inspiration. Handbound into an edition of two.
 
 </div>
 
 <div style="margin: 2rem 0;">
 
 **Medium:** Handbound artist book with illustrations  
+**Pages:** 220  
 **Edition:** 2 copies
 
 </div>
