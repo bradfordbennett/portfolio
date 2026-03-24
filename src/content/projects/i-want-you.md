@@ -44,6 +44,4 @@ You could call it erotica, though that word has become a kind of apology. A seri
 **Medium:** Acrylic on handmade cotton rag, handbound and boxed with various papers  
 **Dimensions:** 320mm × 220mm closed
 
-**Exhibition:** 2025 at Ellipsis Gallery, Sydney
-
 </div>
