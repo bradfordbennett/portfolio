@@ -13,13 +13,17 @@ images:
 description: "Artist book and cassette exploring AI as noise."
 ---
 
-Two pieces created for *AI Review*, a group show at Ellipsis Gallery, Woolloomooloo.
+<div style="margin: 2rem 0;">
+
+Two pieces created for AI Review, a group show at Ellipsis Gallery, Sydney.
+
+</div>
 
 <div style="margin: 2rem 0;">
 
 ## Noise 1
 
-A handbound artist book created with The Grey Men. The imagery explores the inappropriate use of AI to generate visual noise, pushing the tools toward abstraction and error rather than fidelity.
+This is a handbound artist book created with The Grey Men. The imagery explores the inappropriate use of AI to generate visual noise, pushing the tools toward abstraction and error rather than fidelity.
 
 </div>
 
@@ -27,7 +31,7 @@ A handbound artist book created with The Grey Men. The imagery explores the inap
 
 ## Reverie
 
-The Grey Men's LP2, released on limited edition cassette for the exhibition. The music itself was created using AI in deliberately "wrong" ways, treating the technology as a noise generator rather than a creative collaborator.
+[The Grey Men's LP2](/projects/grey-men-lp2-reverie/), released on limited edition cassette by Innercity Uprising. This was our first release where we pushed noise to the front, obscuring the tonal drone elements. The MXVXM suite was made possible by using custom eurorack modules designed by [Mx Robert Frost](https://www.mxrobertfrost.com/).
 
 </div>
 
