@@ -34,6 +34,15 @@ import Layout from '../layouts/Layout.astro';
       const email = `${user}@${domain}`;
       emailText!.textContent = email;
       emailLink!.href = `mailto:${email}`;
+      
+      // Track GA4 event
+      if (typeof gtag !== 'undefined') {
+        gtag('event', 'email_revealed', {
+          'event_category': 'engagement',
+          'event_label': 'contact_email'
+        });
+      }
+      
       window.location.href = `mailto:${email}`;
     });
   </script>
