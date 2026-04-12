@@ -1,7 +1,7 @@
 ---
 title: "The Grey Men: Wealth"
 category: music
-order: 9
+order: 5
 year: "2024"
 thumbnail: "/images/lp3-wealth.jpg"
 description: "LP3."
