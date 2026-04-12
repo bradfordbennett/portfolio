@@ -3,7 +3,7 @@ title: "One Weekend"
 category: art
 order: 1
 year: "2026"
-thumbnail: "/images/one-weekend/one-weekend-6.jpg"
+thumbnail: "/images/one-weekend/one-weekend-3.jpg"
 images:
   - "/images/one-weekend/one-weekend-2.jpg"
   - "/images/one-weekend/one-weekend-3.jpg"
@@ -20,7 +20,7 @@ description: "Artist book, 2026"
 
 <div style="margin: 2rem 0;">
 
-I spent a weekend with my girlfriend and a roll of black and white film. What came out is a boudoir book, which is fun, and sexy. But it's also a document of a strong, beautiful woman choosing to be seen. There's her lover's gaze, and then there's the camera. She moves between them — sometimes performing, sometimes just being. Both things at once.
+I spent a weekend with my girlfriend and multiple rolls of black and white film. What came out is a boudoir book, which is fun, and sexy. But it's also a document of a strong, beautiful woman choosing to be seen. There's her lover's gaze, and then there's the camera. She moves between them, sometimes performing, sometimes just being. Sometimes both things at once.
 
 </div>
 
