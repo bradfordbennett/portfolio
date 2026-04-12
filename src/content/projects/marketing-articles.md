@@ -9,6 +9,16 @@ description: "Selected writing on creativity, effectiveness, and advertising."
 
 <div style="margin: 2rem 0;">
 
+## Decoding Asian Affluence (2023)
+
+APAC spotlight on emerging markets.
+
+[Read on WARC →](https://www.warc.com/content/paywall/article/WARC-Exclusive/APAC_Spotlight_Decoding_Asian_affluence/en-GB/157335)
+
+</div>
+
+<div style="margin: 2rem 0;">
+
 ## Authenticity in the Age of AI (2025)
 
 On synthetic creativity and what feels real.
