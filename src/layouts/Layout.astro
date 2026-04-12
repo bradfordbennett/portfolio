@@ -16,6 +16,14 @@ const { title = 'Brad Bennett' } = Astro.props;
     <meta name="description" content="Brad Bennett - Music, Art, Writing" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <title>{title}</title>
+    <!-- Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'GA_MEASUREMENT_ID');
+    </script>
   </head>
   <body class="min-h-screen">
     <header class="fixed top-0 left-0 right-0 z-50 bg-[--color-bg]/90 backdrop-blur-sm border-b border-[--color-border]">
