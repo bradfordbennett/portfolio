@@ -7,7 +7,7 @@ thumbnail: "/images/lp2-reverie.jpg"
 description: "LP2."
 ---
 
-The second full-length from The Grey Men.
+This was our second full length album, released on limited edition cassette by Innercity Uprising. It was our first release where we pushed noise to the front, obscuring the tonal drone elements. The MXVXM suite was made possible by using custom eurorack modules designed by [Mx Robert Frost](https://www.mxrobertfrost.com/).
 
 <div style="margin: 2rem 0;">
 
