@@ -9,7 +9,7 @@ description: "LP4. Art as Catharsis / Inner Demons Records."
 
 <div style="margin: 2rem 0;">
 
-We wrote a series of musical canons to explore simplified, slow sonic structures. Noise is used at time to support and at times to obscure the tonal drone. Many of the tracks were made in collaboration with [Mx Robert Frost](https://www.mxrobertfrost.com/), who also designed some of the electronics in our modular synth. The vocals are all found samples.
+We wrote a series of musical canons to explore simplified, slow sonic structures. Noise is used at times to support and at times to obscure the tonal drone. Many of the tracks were made in collaboration with [Mx Robert Frost](https://www.mxrobertfrost.com/), who also designed some of the electronics in my modular synth. The vocals are all found samples.
 
 </div>
 
