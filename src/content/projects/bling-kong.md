@@ -1,7 +1,7 @@
 ---
 title: "Bling Kong"
 category: music
-order: 13
+order: 14
 year: "2004–2006"
 thumbnail: "/images/bling-kong-timeout.jpg"
 images:

@@ -1,7 +1,7 @@
 ---
 title: "Fiji Dance / Fiji Bus"
 category: art
-order: 12
+order: 13
 year: "2022"
 thumbnail: "/images/fiji-thumb.jpg"
 images:

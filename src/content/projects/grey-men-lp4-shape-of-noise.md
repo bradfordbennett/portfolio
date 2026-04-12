@@ -1,7 +1,7 @@
 ---
 title: "The Grey Men: The Shape of Noise to Come"
 category: music
-order: 1
+order: 2
 year: "2024"
 thumbnail: "/images/lp4-shape-of-noise.jpg"
 description: "LP4. Art as Catharsis / Inner Demons Records."

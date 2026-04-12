@@ -1,7 +1,7 @@
 ---
 title: "Moto Guzzi V7"
 category: art
-order: 14
+order: 15
 year: "2013–ongoing"
 thumbnail: "/images/guzzi-v7-fairing.jpg"
 images:

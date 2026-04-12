@@ -1,7 +1,7 @@
 ---
 title: "I Want You"
 category: art
-order: 2
+order: 3
 year: "2025"
 thumbnail: "/images/i-want-you.jpg"
 description: "Artist book. Erotica. Acrylic on handmade cotton rag."

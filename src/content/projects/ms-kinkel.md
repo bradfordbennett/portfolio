@@ -1,7 +1,7 @@
 ---
 title: "Ms Kinkel"
 category: art
-order: 6
+order: 7
 year: "2025"
 thumbnail: "/images/ms-kinkel.jpg"
 description: "Acrylic on handmade cotton rag."

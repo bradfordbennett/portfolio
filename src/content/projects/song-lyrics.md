@@ -1,7 +1,7 @@
 ---
 title: "Hang On St Chris"
 category: art
-order: 15
+order: 16
 year: "2015"
 thumbnail: "/images/st-chris-right.jpg"
 images:

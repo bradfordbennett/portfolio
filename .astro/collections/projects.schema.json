@@ -18,6 +18,12 @@
         "thumbnail": {
           "type": "string"
         },
+        "images": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
         "externalUrl": {
           "type": "string"
         },
