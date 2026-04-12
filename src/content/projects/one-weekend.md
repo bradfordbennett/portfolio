@@ -20,7 +20,7 @@ description: "Artist book, 2026"
 
 <div style="margin: 2rem 0;">
 
-I spent a weekend with my girlfriend and multiple rolls of black and white film. What came out is a boudoir book, which is fun, and sexy. But it's also a document of a strong, beautiful woman choosing to be seen. There's her lover's gaze, and then there's the camera. She moves between them, sometimes performing, sometimes just being. Sometimes both things at once.
+I spent a weekend with my girlfriend and multiple rolls of black and white film. What came out is a boudoir book, which is fun and sexy. But it's also a document of a strong, beautiful woman choosing to be seen. There's her lover's gaze, and then there's the camera. She moves between them, sometimes performing, sometimes just being. Sometimes both things at once.
 
 </div>
 
