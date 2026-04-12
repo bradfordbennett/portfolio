@@ -3,9 +3,8 @@ title: "One Weekend"
 category: art
 order: 1
 year: "2026"
-thumbnail: "/images/one-weekend/one-weekend-2.jpg"
+thumbnail: "/images/one-weekend/one-weekend-6.jpg"
 images:
-  - "/images/one-weekend/one-weekend-1.jpg"
   - "/images/one-weekend/one-weekend-2.jpg"
   - "/images/one-weekend/one-weekend-3.jpg"
   - "/images/one-weekend/one-weekend-4.jpg"
@@ -41,6 +40,7 @@ The accordion format stands on its own. You can see multiple pages at once, but 
 
 **Medium:** Handbound artist book, black and white photographs  
 **Paper:** Handmade cotton rag  
-**Format:** Accordion fold with removable cards
+**Format:** Accordion fold with removable cards  
+**Edition:** 1 copy
 
 </div>
