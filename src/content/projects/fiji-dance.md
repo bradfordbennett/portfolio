@@ -12,11 +12,25 @@ images:
 description: "Sound art installation. Concrete sounds, cassette loops, knife."
 ---
 
-*Fiji Dance / Fiji Bus* was a sound art installation at the Inaugural exhibition, Ellipsis Gallery, Woolloomooloo.
+<div style="margin: 2rem 0;">
+
+*Fiji Dance / Fiji Bus* was a sound art installation at the Inaugural exhibition, Ellipsis Gallery, Sydney.
+
+</div>
+
+<div style="margin: 2rem 0;">
 
 The work speaks to the erosion of memory, employing recordings of my partner's voice while on holiday in Fiji. The tape is inexorably dragged across the upturned blade of a Stanley knife during the course of the show, slowly destroying itself.
 
+</div>
+
+<div style="margin: 2rem 0;">
+
 The piece provided the ambient soundtrack for the opening night, and by the end of the exhibition, nothing remained.
+
+</div>
+
+<div style="margin: 2rem 0;">
 
 ## Listen
 
@@ -25,3 +39,5 @@ The piece provided the ambient soundtrack for the opening night, and by the end 
 </audio>
 
 **Exhibition:** Inaugural at Ellipsis Gallery, Sydney (2022)
+
+</div>
