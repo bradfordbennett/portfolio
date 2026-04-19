@@ -1,14 +1,14 @@
 ---
 title: Bhutadayaa
-category: music
+category: art
 order: 10.5
 year: "2024"
 thumbnail: /images/bhutadayaa/bhutadayaa-4.jpg
 images:
+  - /images/bhutadayaa/bhutadayaa-4.jpg
+  - /images/bhutadayaa/bhutadayaa-3.jpg
   - /images/bhutadayaa/bhutadayaa-1.jpg
   - /images/bhutadayaa/bhutadayaa-2.jpg
-  - /images/bhutadayaa/bhutadayaa-3.jpg
-  - /images/bhutadayaa/bhutadayaa-4.jpg
 description: A song for the Incognito Art Show 2024
 ---
 
