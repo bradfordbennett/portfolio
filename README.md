@@ -25,7 +25,7 @@ Create `src/content/projects/<slug>.md`:
 ```markdown
 ---
 title: "Project Title"
-category: art              # music | art | writing
+category: art              # music | art | writing, or a list: [art, music]
 order: 1                   # home page position, lowest first
 year: "2026"               # text, so "2020–2023" works too
 thumbnail: "/images/<slug>/<slug>-1.jpg"
