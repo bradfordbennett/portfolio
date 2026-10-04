@@ -1,43 +1,54 @@
-# Astro Starter Kit: Minimal
+# bradcbennett.com
 
-```sh
-npm create astro@latest -- --template minimal
-```
+Portfolio site for Brad Bennett: music, art and writing.
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+Built with [Astro](https://astro.build) and Tailwind CSS. Deployed by Netlify, which rebuilds the site automatically on every push to `main`.
 
-## 🚀 Project Structure
-
-Inside of your Astro project, you'll see the following folders and files:
+## Structure
 
 ```text
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
+src/
+  content/projects/   one Markdown file per project → /projects/<slug>
+  content.config.ts   fields each project must have
+  pages/              home (project grid), about, contact, project template
+  layouts/            shared page shell (header, nav, footer)
+  styles/global.css   colours and base styles
+public/
+  images/             project images (loose, or a folder per project)
+  audio/              MP3s used on project pages
 ```
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+## Adding a project
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+Create `src/content/projects/<slug>.md`:
 
-Any static assets, like images, can be placed in the `public/` directory.
+```markdown
+---
+title: "Project Title"
+category: art              # music | art | writing
+order: 1                   # home page position, lowest first
+year: "2026"               # text, so "2020–2023" works too
+thumbnail: "/images/<slug>/<slug>-1.jpg"
+images:                    # optional gallery
+  - "/images/<slug>/<slug>-1.jpg"
+externalUrl: "https://..."  # optional: link the card off-site instead
+description: "One-line summary"
+---
 
-## 🧞 Commands
+<div style="margin: 2rem 0;">
 
-All commands are run from the root of the project, from a terminal:
+Body text in Markdown. Wrap each paragraph or block in a div like this one.
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+</div>
+```
 
-## 👀 Want to learn more?
+Put the images in `public/images/`. Newest work goes at `order: 1`; renumber the others, or use a decimal (e.g. `10.5`) to slot something between two items.
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+## Commands
+
+| Command           | Action                                  |
+| :---------------- | :-------------------------------------- |
+| `npm install`     | Install dependencies                    |
+| `npm run dev`     | Local dev server at `localhost:4321`    |
+| `npm run build`   | Build the site to `./dist/`             |
+| `npm run preview` | Preview the built site locally          |
