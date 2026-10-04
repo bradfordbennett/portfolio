@@ -1,6 +1,6 @@
 ---
 title: "Tlön Encyclopaedia Volume XI"
-category: art
+category: [art, writing]
 order: 4
 year: "2025"
 thumbnail: "/images/tlon-encyclopaedia-thumb.jpg"

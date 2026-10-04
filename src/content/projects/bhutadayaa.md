@@ -1,6 +1,6 @@
 ---
 title: Bhutadayaa
-category: art
+category: [art, music]
 order: 10.5
 year: "2024"
 thumbnail: /images/bhutadayaa/bhutadayaa-4.jpg

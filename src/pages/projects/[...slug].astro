@@ -23,7 +23,7 @@ const { Content } = await render(project);
     </a>
     
     <header class="mb-8">
-      <p class="text-sm text-[--color-text-muted] uppercase tracking-wide mb-2">{project.data.category}</p>
+      <p class="text-sm text-[--color-text-muted] uppercase tracking-wide mb-2">{project.data.category.join(' · ')}</p>
       <h1 class="text-4xl font-medium mb-4">{project.data.title}</h1>
       {project.data.year && (
         <p class="text-[--color-text-muted]">{project.data.year}</p>

@@ -48,7 +48,7 @@ const sortedProjects = projects.sort((a, b) => a.data.order - b.data.order);
             target={isExternal ? "_blank" : undefined}
             rel={isExternal ? "noopener noreferrer" : undefined}
             class="project-card group block" 
-            data-category={project.data.category}
+            data-category={project.data.category.join(' ')}
           >
             <div class="aspect-square bg-[--color-border] rounded-lg overflow-hidden mb-3">
               {project.data.thumbnail ? (
@@ -59,7 +59,7 @@ const sortedProjects = projects.sort((a, b) => a.data.order - b.data.order);
                 />
               ) : (
                 <div class="w-full h-full flex items-center justify-center text-[--color-text-muted]">
-                  <span class="text-4xl">{project.data.category === 'music' ? '♪' : project.data.category === 'art' ? '◐' : '¶'}</span>
+                  <span class="text-4xl">{project.data.category[0] === 'music' ? '♪' : project.data.category[0] === 'art' ? '◐' : '¶'}</span>
                 </div>
               )}
             </div>
@@ -67,7 +67,7 @@ const sortedProjects = projects.sort((a, b) => a.data.order - b.data.order);
               {project.data.title}
               {isExternal && <span class="text-[--color-text-muted] text-sm ml-1">↗</span>}
             </h3>
-            <p class="text-sm text-[--color-text-muted] uppercase tracking-wide">{project.data.category}</p>
+            <p class="text-sm text-[--color-text-muted] uppercase tracking-wide">{project.data.category.join(' · ')}</p>
           </a>
         );
       })}
@@ -101,8 +101,8 @@ const sortedProjects = projects.sort((a, b) => a.data.order - b.data.order);
       
       // Filter projects
       projectCards.forEach(card => {
-        const category = card.getAttribute('data-category');
-        if (filter === 'all' || category === filter) {
+        const categories = (card.getAttribute('data-category') || '').split(' ');
+        if (filter === 'all' || categories.includes(filter)) {
           card.classList.remove('hidden');
         } else {
           card.classList.add('hidden');
