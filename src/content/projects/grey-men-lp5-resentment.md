@@ -4,6 +4,10 @@ category: music
 order: 0
 year: "2026"
 thumbnail: "/images/lp5-resentment.jpg"
+images:
+  - "/images/lp5-resentment.jpg"
+  - "/images/lp5-resentment-cd-1.jpg"
+  - "/images/lp5-resentment-cd-2.jpg"
 description: "LP5. Woven Eye Propaganda."
 ---
 
