@@ -9,13 +9,7 @@ description: "LP5. Woven Eye Propaganda."
 
 <div style="margin: 2rem 0;">
 
-Our fifth album keeps the weight of the guitars but opens the sound up, letting atmospheric and at times euphoric passages push through the noise and found sound. It was made during a period of upheaval: relationships ending, new ones beginning, and working out where home is now. The record doesn't try to resolve any of that. It turns the fragments into sound and leaves them there.
-
-</div>
-
-<div style="margin: 2rem 0;">
-
-Doom and Dead heard it as "as opalescent and wondrous as petrified wood."
+Our fifth album was made during a period of upheaval with tracks shaped by the ending of relationships, the beginning of new life, and the redefinition of home. We're still working with noise, crushing guitars and found sounds, but now trying new compositional techniques and new levels of layering to get at those underlying emotions.
 
 </div>
 
