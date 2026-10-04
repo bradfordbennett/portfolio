@@ -1,0 +1,4 @@
+# Paper Plane Project shop: hidden test path, forwarded to the app on Render.
+# Remove these lines to take the test site down.
+/pp-f9b5b09b06    https://paper-plane-shop.onrender.com/        200!
+/pp-f9b5b09b06/*  https://paper-plane-shop.onrender.com/:splat  200!
